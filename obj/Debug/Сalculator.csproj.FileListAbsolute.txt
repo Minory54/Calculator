@@ -1,0 +1,20 @@
+C:\Users\olesy\source\repos\Сalculator\bin\Debug\Сalculator.exe.config
+C:\Users\olesy\source\repos\Сalculator\bin\Debug\Сalculator.exe
+C:\Users\olesy\source\repos\Сalculator\bin\Debug\Сalculator.pdb
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.csproj.AssemblyReference.cache
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.Properties.Resources.resources
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.csproj.GenerateResource.cache
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.exe
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.pdb
+C:\Users\olesy\source\repos\Сalculator\obj\Debug\Сalculator.MainForm.resources
+D:\Учебка\Экономика отрасли\Calculator\bin\Debug\Сalculator.exe.config
+D:\Учебка\Экономика отрасли\Calculator\bin\Debug\Сalculator.exe
+D:\Учебка\Экономика отрасли\Calculator\bin\Debug\Сalculator.pdb
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.csproj.AssemblyReference.cache
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.MainForm.resources
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.Properties.Resources.resources
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.csproj.GenerateResource.cache
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.csproj.CoreCompileInputs.cache
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.exe
+D:\Учебка\Экономика отрасли\Calculator\obj\Debug\Сalculator.pdb
